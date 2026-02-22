@@ -1,11 +1,14 @@
-# Sample Snack app
+Inspiration
+Our inspiration for this project first began with our consideration of the American workers that are the backbone to our community. The answer was clear: farmers. Farmers, although the crucial building blocks of our economy who also provide us with the food we need every day, often struggle to reach a broad audience. Often their local businesses are outpaced by large corporations. One of the reasons why is because of their limited expertise with the internet and digital age. Our goal was to provide a way to support these farmers by utilizing our digital expertise to create a platform.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+What it does
+The app and website both provide the same functionality. Our product has two parts: the business side and the user side. It is designed to be user-friendly, efficient, and organized for both sides. The goal is to allow our farmers to easily organize and manage their businesses, benefitting everyone.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+*The user side: * -home page: broadly discusses the business, workers, and goals on the front page. This helps develop a connection and trust among customers -events page: lists the schedule for both pick and delivery, which also includes location and time -products page: lists produce items available, as well as their stock and price -reviews page: company reviews displayed to customers -place order page: allows customers to directly place an order on the app
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+*The business side: * -management schedules page: provides a way to create events and add their details -view orders page: allows the business to see orders -manage products page: includes a way to add products and their details -view stats page: allows the business to see popular products and other metrics -view reviews page: includes a way to view reviews
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+How we built it
+*The back-end development: * coded by Henry Wang, utilizing Java. A UML diagram is attached below that illustrates the data management structure.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+*The front-end development: * coded by Mithun Dhanasuthan using React to create clean, uesr-friendly, and functional GUI.
